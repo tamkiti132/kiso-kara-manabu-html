@@ -7,3 +7,9 @@
 .big{
     font-size: 37px;
 }
+a:hover{
+    color: rgb(255, 91, 86);
+}
+article p + p{
+    margin-top: 30px;
+}
