@@ -1,15 +1,15 @@
 /* h1{
     background-color: rgb(200, 249, 255);
 } */
+
 .title{
     background-color: rgb(200, 249, 255);
+    border-left: 10px solid rgb(0, 225, 255);
+    box-sizing: border-box;
 }
 .big{
     font-size: 37px;
 }
 a:hover{
     color: rgb(255, 91, 86);
-}
-article p + p{
-    margin-top: 30px;
 }
